@@ -34,3 +34,6 @@ img{
 footer{
     background-color: burlywood;
 }
+.my-4{
+    margin-bottom: 0 !important;
+}
